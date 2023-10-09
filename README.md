@@ -1,2 +1,2 @@
 # OdinSchool-DataScience-Bootcamp-Projects
-These are the projects i have done in odinschool.
+This is the 1st project i have done in odinschool.
